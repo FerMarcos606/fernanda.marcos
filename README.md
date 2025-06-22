@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/fernanda.marcos/main/yo-y-mi-gato.png" alt="fer y su gato" width="400"/>
+<img src="https://raw.githubusercontent.com/FerMarcos606/fernanda.marcos/main/yo-y-mi-gato.png" alt="fer y su gato" width="400"/>
 
 > _“El código es como un zentangle: cada línea importa.”_
 
